@@ -20,16 +20,16 @@
     "portalId": "ADM-AR-ACAD",
     "name": "Dr. Gautam Kumar Roy",
     "portalName": "GAUTAM KUMAR ROY",
-    "image": "",
+    "image": "https://nerist.ac.in/wp-content/uploads/2025/01/GK-roy.jpg",
     "designation": "Assistant Registrar (Academic)",
-    "department": "Administration / Academic Section",
+    "department": "Academic Administration",
     "areaOfInterest": "Academic Administration, Institute Governance, AICTE Affairs",
     "emails": [
       "dracad@nerist.ac.in",
       "aracad@nerist.ac.in"
     ],
     "portalPhone": "0360-2257565",
-    "officialPhone": "Direct: 0360-2257565 / EPABX Ext: 6008",
+    "officialPhone": "Direct Desk: 0360-2257565 | EPABX: 0360-2257401 Ext. 6008",
     "profileUrl": "https://nerist.ac.in/organisation/mr-g-k-roy/",
     "status": "Administrative Officer",
     "dateAdded": "2024-05-01"
@@ -765,7 +765,7 @@
     "emails": [
       "ybd@nerist.ac.in"
     ],
-    "portalPhone": "",
+    "portalPhone": "9436258565",
     "officialPhone": "Mobile: +91-9436258565 Phone:0360-2257401 - 8 extn. 6253 (Off)",
     "profileUrl": "https://nerist.ac.in/faculty/ms-yumnam-bidyalaxmi-devi/",
     "status": "Official Permanent Faculty",
@@ -1298,7 +1298,7 @@
     "emails": [
       "kjs@nerist.ac.in"
     ],
-    "portalPhone": "",
+    "portalPhone": "9856672096",
     "officialPhone": "0360 - 2257401-8 Ext. 6118 (office) Mobile:+91-9856672096",
     "profileUrl": "https://nerist.ac.in/faculty/mr-k-james-singh/",
     "status": "Official Permanent Faculty",
@@ -1372,23 +1372,6 @@
     "portalPhone": "9615723864",
     "officialPhone": "0360-2257401 (Extension Number-6132) Mobile:+919615723864, +918798410768",
     "profileUrl": "https://nerist.ac.in/faculty/dr-neero-gumsar-sorum/",
-    "status": "Official Permanent Faculty",
-    "dateAdded": "2024-02-27"
-  },
-  {
-    "portalId": null,
-    "name": "Ms. Yumnam Bidyalaxmi Devi",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/05/bidyalaxmi-1.jpg",
-    "designation": "Assistant Professor",
-    "department": "Civil Engineering",
-    "areaOfInterest": "Environmental Engineering",
-    "emails": [
-      "ybd@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "Mobile: +91-9436258565 Phone:0360-2257401 - 8 extn. 6253 (Off)",
-    "profileUrl": "https://nerist.ac.in/faculty/ms-y-bidyalaxmi-devi/",
     "status": "Official Permanent Faculty",
     "dateAdded": "2024-02-27"
   },
@@ -1496,23 +1479,6 @@
     "portalPhone": "9774035173",
     "officialPhone": "(EPABX/Office): 0360-2257401-8 Extn. 6255, (M) 9774035173",
     "profileUrl": "https://nerist.ac.in/faculty/dr-shibabrata-choudhury/",
-    "status": "Official Permanent Faculty",
-    "dateAdded": "2024-02-26"
-  },
-  {
-    "portalId": "EST-699/5/98",
-    "name": "Dr. Sudisht Mishra",
-    "portalName": "SUDISHT MISHRA",
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/Photograph-for-uploading-1.png",
-    "designation": "Professor",
-    "department": "Civil Engineering",
-    "areaOfInterest": "Concrete Technology and Sustainable Development.",
-    "emails": [
-      "sudisht_mishra@nerist.ac.in"
-    ],
-    "portalPhone": "8131011919",
-    "officialPhone": "0360 2257919 Mobile:+91-9402275330",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-s-mishra/",
     "status": "Official Permanent Faculty",
     "dateAdded": "2024-02-26"
   },
@@ -1992,17 +1958,17 @@
   },
   {
     "portalId": "EST-499/5/94",
-    "name": "Dr. Sarsing Gao",
+    "name": "Prof. Sarsing Gao",
     "portalName": "SARSING GAO",
     "image": "https://nerist.ac.in/wp-content/uploads/2024/02/IMG-20160415-WA0020-2-1.png",
-    "designation": "Professor",
+    "designation": "Professor (Former Dean Academic)",
     "department": "Electrical Engineering",
     "areaOfInterest": "Electrical Machines, Distributed Power Generation, Energy and Power Quality",
     "emails": [
       "sg@nerist.ac.in"
     ],
     "portalPhone": "8257880866",
-    "officialPhone": "(EPABX/Office):2257401 - 411 Ext. 7005",
+    "officialPhone": "Mobile: +91-8257880866 / +91-9362920528 (Dean Mobile) | EPABX Ext. 7005",
     "profileUrl": "https://nerist.ac.in/faculty/dr-sarsing-gao/",
     "status": "Official Permanent Faculty",
     "dateAdded": "2024-02-26"
@@ -2177,7 +2143,7 @@
     "emails": [
       "em@nerist.ac.in"
     ],
-    "portalPhone": "",
+    "portalPhone": "8415022686",
     "officialPhone": "(EPBX/Office):0360-2257401-8 extn. 6166 Mob. No: 8415022686",
     "profileUrl": "https://nerist.ac.in/faculty/moirangthem-edison-singh/",
     "status": "Official Permanent Faculty",
@@ -2265,7 +2231,7 @@
       "mma@nerist.ac.in"
     ],
     "portalPhone": "6295728068",
-    "officialPhone": "6295728068",
+    "officialPhone": "Mobile: +91-6295728068 | EPABX: 0360-2257401 Ext. 6258",
     "profileUrl": "https://nerist.ac.in/faculty/dr-madhusudhan-mishra/",
     "status": "Official Permanent Faculty",
     "dateAdded": "2024-02-22"
@@ -2424,24 +2390,6 @@
     "portalPhone": "8258054110",
     "officialPhone": "(EPBX/Office): 03602257401-8 Extn. 6224",
     "profileUrl": "https://nerist.ac.in/faculty/sandeep-singh/",
-    "status": "Official Permanent Faculty",
-    "dateAdded": "2024-02-22"
-  },
-  {
-    "portalId": "EST-789/5/2006",
-    "name": "Dr. Satyam Shivam Gautam",
-    "portalName": "SATYAM SHIVAM GAUTAM",
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/sathyam-1.png",
-    "designation": "Professor",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "Machine Design, Tribology of Bearings, Materials",
-    "emails": [
-      "ssg@nerist.ac.in",
-      "ssgnerist@gmail.com"
-    ],
-    "portalPhone": "9436252336",
-    "officialPhone": "(EPBX/Office):0360-2257401-8 (Extn.) 6245",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-satyam-shivam-gautam/",
     "status": "Official Permanent Faculty",
     "dateAdded": "2024-02-22"
   },
@@ -2813,22 +2761,6 @@
     "status": "ERP Registered Faculty / Staff"
   },
   {
-    "portalId": "EST-765/5/2006",
-    "name": "MADHUSUDAN MISRA",
-    "portalName": "MADHUSUDAN MISRA",
-    "image": "",
-    "designation": "Professor",
-    "department": "Other / Administrative",
-    "areaOfInterest": "",
-    "emails": [
-      "mma@nerist.ac.in"
-    ],
-    "portalPhone": "6295728068",
-    "officialPhone": "6295728068",
-    "profileUrl": "",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
     "portalId": "EST-774/5/2006",
     "name": "S. SURESHKUMAR SINGH",
     "portalName": "S. SURESHKUMAR SINGH",
@@ -3142,28 +3074,14 @@
     "department": "Agricultural Engineering",
     "areaOfInterest": "",
     "emails": [
-      "8962885564@gmail.com"
+      "8962885564@gmail.com",
+      "8962885565@gmail.com",
+      "8962885563@gmail.com"
     ],
     "portalPhone": "8962885563",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "AE-RS3",
-    "name": "Sameer Mandal",
-    "portalName": "SAMEER MANDAL",
-    "image": "",
-    "designation": "Assistant Professor",
-    "department": "Agricultural Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "8962885565@gmail.com"
-    ],
-    "portalPhone": "8962885563",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Research Scholar / TA"
   },
   {
     "portalId": "AE-RS4",
@@ -3193,22 +3111,6 @@
       "6909607899@gmail.com"
     ],
     "portalPhone": "6909607899",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Research Scholar / TA"
-  },
-  {
-    "portalId": "AE-RS6",
-    "name": "Sameer Mandal",
-    "portalName": "SAMEER MANDAL",
-    "image": "",
-    "designation": "Assistant Professor",
-    "department": "Agricultural Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "8962885563@gmail.com"
-    ],
-    "portalPhone": "8962885563",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Research Scholar / TA"
@@ -3368,7 +3270,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3416,7 +3318,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3464,7 +3366,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3496,7 +3398,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3512,7 +3414,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3544,7 +3446,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3560,7 +3462,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3576,7 +3478,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3592,7 +3494,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3608,7 +3510,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3624,7 +3526,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3720,7 +3622,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3736,7 +3638,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3768,7 +3670,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3784,7 +3686,7 @@
     "emails": [
       "hodce@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -3798,7 +3700,8 @@
     "department": "Centre for Management Studies",
     "areaOfInterest": "",
     "emails": [
-      "sarikatoijam4@gmail.com"
+      "sarikatoijam4@gmail.com",
+      "abc1234@gmail.com"
     ],
     "portalPhone": "8014506139",
     "officialPhone": "",
@@ -3870,22 +3773,6 @@
     "status": "Guest Lecturer"
   },
   {
-    "portalId": "CMS-RS1",
-    "name": "Toijam Sarika Devi",
-    "portalName": "TOIJAM SARIKA DEVI",
-    "image": "",
-    "designation": "Assistant Professor",
-    "department": "Centre for Management Studies",
-    "areaOfInterest": "",
-    "emails": [
-      "abc1234@gmail.com"
-    ],
-    "portalPhone": "99999999901",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Research Scholar / TA"
-  },
-  {
     "portalId": "CMS-RS2",
     "name": "Licha Tado",
     "portalName": "LICHA TADO",
@@ -3928,7 +3815,7 @@
     "emails": [
       "hodcms@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Research Scholar / TA"
@@ -3976,7 +3863,7 @@
     "emails": [
       "hodcse@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "ERP Registered Faculty / Staff"
@@ -3992,7 +3879,7 @@
     "emails": [
       "hodcse@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "ERP Registered Faculty / Staff"
@@ -4166,7 +4053,8 @@
     "department": "Chemistry",
     "areaOfInterest": "",
     "emails": [
-      "shilpasaikia111@gmail.com"
+      "shilpasaikia111@gmail.com",
+      "7399905880@gmail.com"
     ],
     "portalPhone": "7399905880",
     "officialPhone": "",
@@ -4232,7 +4120,7 @@
     "emails": [
       "hodch@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -4334,22 +4222,6 @@
     "status": "Research Scholar / TA"
   },
   {
-    "portalId": "CY-RS7",
-    "name": "Shilpa Saikia",
-    "portalName": "SHILPA SAIKIA",
-    "image": "",
-    "designation": "Assistant Professor",
-    "department": "Chemistry",
-    "areaOfInterest": "",
-    "emails": [
-      "7399905880@gmail.com"
-    ],
-    "portalPhone": "7399905880",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Research Scholar / TA"
-  },
-  {
     "portalId": "CY-RS8",
     "name": "Abdul Kuddus Choudhury",
     "portalName": "ABDUL KUDDUS CHOUDHURY",
@@ -4376,7 +4248,7 @@
     "emails": [
       "hodch@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Research Scholar / TA"
@@ -4406,73 +4278,11 @@
     "department": "Electronics and Communication Engineering",
     "areaOfInterest": "",
     "emails": [
-      "ec-gl2@gmail.com"
+      "ec-gl2@gmail.com",
+      "ec-gl3@gmail.com",
+      "hodece@nerist.ac.in"
     ],
     "portalPhone": "9999999993",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "EC-GL3",
-    "name": "Guest Lecturer Ec",
-    "portalName": "GUEST LECTURER EC",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "ec-gl3@gmail.com"
-    ],
-    "portalPhone": "9999999994",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "EC-GL4",
-    "name": "Guest Lecturer Ec",
-    "portalName": "GUEST LECTURER EC",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "hodece@nerist.ac.in"
-    ],
-    "portalPhone": "9999999999",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "EC-GL5",
-    "name": "Guest Lecturer Ec",
-    "portalName": "GUEST LECTURER EC",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "hodece@nerist.ac.in"
-    ],
-    "portalPhone": "9999999999",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "EC-GL6",
-    "name": "Guest Lecturer Ec",
-    "portalName": "GUEST LECTURER EC",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "hodece@nerist.ac.in"
-    ],
-    "portalPhone": "9999999999",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -4600,7 +4410,7 @@
     "emails": [
       "hodece@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -4712,7 +4522,7 @@
     "emails": [
       "hodee@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -4726,7 +4536,8 @@
     "department": "Forestry",
     "areaOfInterest": "",
     "emails": [
-      "momangtali21@gmail.com"
+      "momangtali21@gmail.com",
+      "fo-rs5@gmail.com"
     ],
     "portalPhone": "8732008406",
     "officialPhone": "",
@@ -4758,7 +4569,8 @@
     "department": "Forestry",
     "areaOfInterest": "",
     "emails": [
-      "maheshwangkhem14@gmail.com"
+      "maheshwangkhem14@gmail.com",
+      "fo-rs6@gmail.com"
     ],
     "portalPhone": "8119805956",
     "officialPhone": "",
@@ -4822,57 +4634,10 @@
     "department": "Forestry",
     "areaOfInterest": "",
     "emails": [
-      "520003@nerist.ac.in"
-    ],
-    "portalPhone": "8638393237",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "FO-RS5",
-    "name": "Momang Tali",
-    "portalName": "MOMANG TALI",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Forestry",
-    "areaOfInterest": "",
-    "emails": [
-      "fo-rs5@gmail.com"
-    ],
-    "portalPhone": "9400000000",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "FO-RS6",
-    "name": "Mahesh Wangkhem",
-    "portalName": "MAHESH WANGKHEM",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Forestry",
-    "areaOfInterest": "",
-    "emails": [
-      "fo-rs6@gmail.com"
-    ],
-    "portalPhone": "9300000000",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "FO-RS7",
-    "name": "Tirtharaj Chetry",
-    "portalName": "TIRTHARAJ CHETRY",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Forestry",
-    "areaOfInterest": "",
-    "emails": [
+      "520003@nerist.ac.in",
       "8133932149@gmail.com"
     ],
-    "portalPhone": "8133932149",
+    "portalPhone": "8638393237",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -4902,41 +4667,11 @@
     "department": "Humanities and Social Sciences",
     "areaOfInterest": "",
     "emails": [
-      "hss-gl2@gmail.com"
-    ],
-    "portalPhone": "8413926959",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "HSS-GL3",
-    "name": "Guest Lecturer Hss",
-    "portalName": "GUEST LECTURER HSS",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Humanities and Social Sciences",
-    "areaOfInterest": "",
-    "emails": [
-      "hss-gl3@gmail.com"
-    ],
-    "portalPhone": "7005807388",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "HSS-GL4",
-    "name": "Guest Lecturer Hss",
-    "portalName": "GUEST LECTURER HSS",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Humanities and Social Sciences",
-    "areaOfInterest": "",
-    "emails": [
+      "hss-gl2@gmail.com",
+      "hss-gl3@gmail.com",
       "hss-gl4@gmail.com"
     ],
-    "portalPhone": "7002763076",
+    "portalPhone": "8413926959",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5014,7 +4749,8 @@
     "department": "Mathematics",
     "areaOfInterest": "",
     "emails": [
-      "lham.tashi10@gmail.com"
+      "lham.tashi10@gmail.com",
+      "lham.tashi12@gmail.com"
     ],
     "portalPhone": "9650430032",
     "officialPhone": "",
@@ -5030,7 +4766,8 @@
     "department": "Mathematics",
     "areaOfInterest": "",
     "emails": [
-      "pd4229872@gmail.com"
+      "pd4229872@gmail.com",
+      "pratu.chetry@yahoo.com"
     ],
     "portalPhone": "7642036391",
     "officialPhone": "",
@@ -5070,22 +4807,6 @@
     "status": "Guest Lecturer"
   },
   {
-    "portalId": "MA-RS1",
-    "name": "Lham Tashi",
-    "portalName": "LHAM TASHI",
-    "image": "",
-    "designation": "Assistant Professor",
-    "department": "Mathematics",
-    "areaOfInterest": "",
-    "emails": [
-      "lham.tashi12@gmail.com"
-    ],
-    "portalPhone": "9650430033",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Research Scholar / TA"
-  },
-  {
     "portalId": "MA-RS10",
     "name": "Research Scholar X Ma",
     "portalName": "Research Scholar X MA",
@@ -5096,7 +4817,7 @@
     "emails": [
       "hodma@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5198,22 +4919,6 @@
     "status": "Research Scholar / TA"
   },
   {
-    "portalId": "MA-RS8",
-    "name": "Pratima Devi",
-    "portalName": "PRATIMA DEVI",
-    "image": "",
-    "designation": "Assistant Professor",
-    "department": "Mathematics",
-    "areaOfInterest": "",
-    "emails": [
-      "pratu.chetry@yahoo.com"
-    ],
-    "portalPhone": "9600000000",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Research Scholar / TA"
-  },
-  {
     "portalId": "MA-RS9",
     "name": "Research Scholar Ix Ma",
     "portalName": "Research Scholar IX MA",
@@ -5224,7 +4929,7 @@
     "emails": [
       "hodma@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5270,89 +4975,14 @@
     "department": "Mechanical Engineering",
     "areaOfInterest": "",
     "emails": [
-      "me-gl1@gmail.com"
-    ],
-    "portalPhone": "9999999991",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "ME-GL2",
-    "name": "Guest Lecturer Me",
-    "portalName": "GUEST LECTURER ME",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "me-gl2@gmail.com"
-    ],
-    "portalPhone": "8014999350",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "ME-GL3",
-    "name": "Guest Lecturer Me",
-    "portalName": "GUEST LECTURER ME",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "me-gl3@gmail.com"
-    ],
-    "portalPhone": "8132943002",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "ME-GL4",
-    "name": "Guest Lecturer Me",
-    "portalName": "GUEST LECTURER ME",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "me-gl4@gmail.com"
-    ],
-    "portalPhone": "8011753557",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "ME-GL5",
-    "name": "Guest Lecturer Me",
-    "portalName": "GUEST LECTURER ME",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "",
-    "emails": [
-      "me-gl5@gmail.com"
-    ],
-    "portalPhone": "6000728295",
-    "officialPhone": "",
-    "profileUrl": "",
-    "status": "Guest Lecturer"
-  },
-  {
-    "portalId": "ME-GL6",
-    "name": "Guest Lecturer Me",
-    "portalName": "GUEST LECTURER ME",
-    "image": "",
-    "designation": "Guest Lecturer",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "",
-    "emails": [
+      "me-gl1@gmail.com",
+      "me-gl2@gmail.com",
+      "me-gl3@gmail.com",
+      "me-gl4@gmail.com",
+      "me-gl5@gmail.com",
       "me-gl6@gmail.com"
     ],
-    "portalPhone": "8011753556",
+    "portalPhone": "9999999991",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5400,7 +5030,7 @@
     "emails": [
       "hodme@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5416,7 +5046,7 @@
     "emails": [
       "hodme@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5512,7 +5142,7 @@
     "emails": [
       "hodme@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5528,7 +5158,7 @@
     "emails": [
       "hodme@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5544,7 +5174,7 @@
     "emails": [
       "hodme@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5592,7 +5222,7 @@
     "emails": [
       "hodme@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "ERP Registered Faculty / Staff"
@@ -5816,7 +5446,7 @@
     "emails": [
       "hodph@nerist.ac.in"
     ],
-    "portalPhone": "9999999999",
+    "portalPhone": "",
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
@@ -5852,218 +5482,6 @@
     "officialPhone": "",
     "profileUrl": "",
     "status": "Guest Lecturer"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Krishna Narayan Dewangan",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/dewangan_0.jpg",
-    "designation": "Professor",
-    "department": "Agricultural Engineering",
-    "areaOfInterest": "Ergonomics, Occupational Health, Safety and injury prevention, Farm Machinery and Power",
-    "emails": [
-      "knd@nerist.ac.in",
-      "kndewangan2001@yahoo.co.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPBX/Office): 0360 - 2257401-8 Extn. 6101",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-krishna-narayan-dewangan/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Thaneswer Patel",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/ThaneswerPatel-1.jpg",
-    "designation": "Professor",
-    "department": "Agricultural Engineering",
-    "areaOfInterest": "Agricultural Engineering Agricultural Ergonomics, Digital Human Modelling,Design Optimization using SRM, Farm Tools and Equipment Design, Renewable Sources of Energy",
-    "emails": [
-      "tp@nerist.ac.in",
-      "thaneswer@gmail.com"
-    ],
-    "portalPhone": "",
-    "officialPhone": "+91 (0)360 2257401-08 Extns. 6263 (O)",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-thaneswer-patel/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Ram Kailash Prasad",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/12/RK-prasad.jpg",
-    "designation": "Professor",
-    "department": "Civil Engineering",
-    "areaOfInterest": "Groundwater Contamination and Remediation, Soft Computing, Water Distribution Network, Reservoir Operation and Hydrology",
-    "emails": [
-      "rkp@nerist.ac.in"
-    ],
-    "portalPhone": "9780784484",
-    "officialPhone": "Phone: +91 9780784484",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-r-k-prasad/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Ms. Yumnam Bidyalaxmi Devi",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/05/bidyalaxmi-1.jpg",
-    "designation": "Assistant Professor",
-    "department": "Civil Engineering",
-    "areaOfInterest": "Environmental Engineering",
-    "emails": [
-      "ybd@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "Mobile: +91-9436258565 Phone:0360-2257401 - 8 extn. 6253 (Off)",
-    "profileUrl": "https://nerist.ac.in/faculty/ms-yumnam-bidyalaxmi-devi/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Mr. Konthoujam James Singh",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/REDUCED_PHOTO_KJS_small.jpeg",
-    "designation": "Assistant Professor",
-    "department": "Civil Engineering",
-    "areaOfInterest": "Watershed Management And Flood Control",
-    "emails": [
-      "kjs@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "0360 - 2257401-8 Ext. 6118 (office) Mobile:+91-9856672096",
-    "profileUrl": "https://nerist.ac.in/faculty/mr-k-james-singh/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Mr. T Vimal Prakash Singh",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/vimal.jpg",
-    "designation": "Associate Professor",
-    "department": "Electrical Engineering",
-    "areaOfInterest": "Asynchronous Circuit Design, Low Power VLSI circuit, Control of Power electronic devices",
-    "emails": [
-      "vimal@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPABX/Office): 2257401",
-    "profileUrl": "https://nerist.ac.in/faculty/mr-t-vimal-prakash-singh/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Pukhrambam Devachandra Singh",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/website-nerist-profile.jpg",
-    "designation": "Assistant Professor (Selection Grade/8000 GP)",
-    "department": "Electrical Engineering",
-    "areaOfInterest": "Research interest includes Renewable Energy including Solar PV, Wind, Micro Hydro Power systems, etc., Distributed Generations, and related power quality analysis, Microgrid, Smart Grid and Electric Vehicle related studies, and Application of soft computing techniques in Power System studies.",
-    "emails": [
-      "pds@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPABX/Office): 0360-2257401-8 extn. 7017",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-pukhrambam-devachandra-singh/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": "EST-765/5/2006",
-    "name": "Dr. Madhusudhan Mishra",
-    "portalName": "MADHUSUDAN MISRA",
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/MMS.jpg",
-    "designation": "Professor",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "Biomedical Signal and Image Processing",
-    "emails": [
-      "mma@nerist.ac.in"
-    ],
-    "portalPhone": "6295728068",
-    "officialPhone": "6295728068",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-madhusudhan-mishra/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Mr. Moirangthem Edison Singh",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/profile-1.png",
-    "designation": "Assistant Professor",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "Microwave Filters, Antennas",
-    "emails": [
-      "em@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPBX/Office):0360-2257401-8 extn. 6166 Mob. No: 8415022686",
-    "profileUrl": "https://nerist.ac.in/faculty/moirangthem-edison-singh/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Bhagyalakshmi Narayanapuram",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2025/03/BHAGYA_photo-1.jpg",
-    "designation": "Assistant Professor",
-    "department": "Electronics and Communication Engineering",
-    "areaOfInterest": "Signal processing, Telecommunications, LTE & NR/5G Physical Layer, Hardware security in wireless communication, Network Security, Quantum Security & Quantum Communication",
-    "emails": [
-      "bgl@nerist.ac.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "Office EPABX: 0360-2257401-410",
-    "profileUrl": "https://nerist.ac.in/faculty/bhagyalakshmi-narayanapuram/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Muthumari Chandrasekaran",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/chandra-1.png",
-    "designation": "Professor",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "Conventional Machining, EDM/WEDM, Modeling and Optimization, Composite materials, Automated Manufacturing, FMS, Fluid power control systems.",
-    "emails": [
-      "mc@nerist.ac.in",
-      "mchse1@yahoo.com"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPBX/Office): 0360 2257401-8 Ext:6184",
-    "profileUrl": "https://nerist.ac.in/faculty/m-chandrasekaran/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Yadaiah Nirsanametla",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/yadiah.jpg",
-    "designation": "Assistant Professor (Level 12)",
-    "department": "Mechanical Engineering",
-    "areaOfInterest": "Development of Computational Models for Manufacturing Processes; Additive Manufacturing / 3D Printing; Wire Arc Additive Manufacturing (WAAM); Computational Welding Mechanics; Industry 4.0; Optimization Techniques for Manufacturing Processes",
-    "emails": [
-      "yaadudme@gmail.com"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPBX/Office):+91-360-2257401 (extension:6190)",
-    "profileUrl": "https://nerist.ac.in/faculty/yadaiah-nirsanametla/",
-    "status": "ERP Registered Faculty / Staff"
-  },
-  {
-    "portalId": null,
-    "name": "Dr. Madhu Bala Sharma",
-    "portalName": null,
-    "image": "https://nerist.ac.in/wp-content/uploads/2024/02/mbs.jpg.jpg",
-    "designation": "Professor",
-    "department": "Forestry",
-    "areaOfInterest": "Wood Science & Technology,, Plant Anatomy, Ethnobotany, Forest Products and Their Utilization",
-    "emails": [
-      "ms@nerist.ac.in",
-      "mbs_madhu@yahoo.co.in"
-    ],
-    "portalPhone": "",
-    "officialPhone": "(EPBX/Office): 2257401-8 Extension 7154",
-    "profileUrl": "https://nerist.ac.in/faculty/dr-madhu-bala-sharma/",
-    "status": "ERP Registered Faculty / Staff"
   },
   {
     "portalId": "EST-698/5/98",
