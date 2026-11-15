@@ -1,0 +1,17 @@
+{
+  "short_name": "NERIST Faculty",
+  "name": "NERIST Faculty Explorer",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512 any",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050508",
+  "theme_color": "#050508",
+  "display": "standalone",
+  "orientation": "portrait"
+}
